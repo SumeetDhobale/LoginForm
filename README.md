@@ -31,8 +31,8 @@ It demonstrates how to design a clean and responsive login page with modern styl
 
 ## 📸 Screenshot  
 
-![Login Form Screenshot](<img width="1366" height="689" alt="loginpage" src="https://github.com/user-attachments/assets/7daae914-6a2e-4727-9e82-fa9c0e6a258f" />
-)
+![Login Form Screenshot](loginpage.png)
+
 
 ## ✨ Future Improvements
 
